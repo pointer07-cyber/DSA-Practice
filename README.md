@@ -1,9 +1,14 @@
-# DSA Practice 🚀
+## 🚀 DSA Practice Repository
 
-This repository contains my daily DSA practice problems.
+- 📅 Daily problem solving
+- 💻 Language: C++
+- 🧠 Focus: Arrays, Patterns, Hashing, Two Pointers
 
-## Topics Covered
-- Arrays
-- Hashing
-- Strings 
+## 📊 Progress
+- Total Problems Solved: 4
+- Topics Covered:
+  - Arrays
+  - Monotonic Patterns
 
+## 🎯 Goal
+Solve 200+ problems before 3rd semester
