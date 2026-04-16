@@ -5,7 +5,7 @@
 - 🧠 Focus: Arrays, Patterns, Hashing, Two Pointers
 
 ## 📊 Progress
-- Total Problems Solved: 4
+- Total Problems Solved: 6
 - Topics Covered:
   - Arrays
   - Monotonic Patterns
